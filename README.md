@@ -39,16 +39,17 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 # Introduction
 Welcome to EatEase, your go-to platform for convenient and efficient food ordering. Whether you're craving a quick snack or planning a full-course meal, EatEase is designed to cater to all your dining needs with ease and simplicity.
 
-The website is built using the following technologies:
+# The website is built using the following technologies:
 
-Hygraph for backend content management and API integration.
-ShadCN for CSS components, ensuring a responsive and visually appealing interface.
-Clerk for secure user authentication, handling login and registration processes efficiently.
+- **Hygraph** for backend content management and API integration.
+- **ShadCN** for CSS components, ensuring a responsive and visually appealing interface.
+- **Clerk** for secure user authentication, handling login and registration processes efficiently.
+- **Next.js** the application is built using Next.js, a powerful React framework that enhances performance and provides server-side rendering for a smoother, faster user experience.
+- **React** the front end of EatEase is developed with React, a popular JavaScript library for building user interfaces, allowing for dynamic and interactive web pages.
 
+> Side-note: Project is still on-work on but some features are working(such as login, register, clicking food categories and adding to cart) as intended.
 ---
-Side-note: Project is still on-work on but some features are working(such as login, register, clicking food categories and adding to cart) as intended.
----
-Screenshots:
+## Screenshots:
 ![image](https://github.com/arnoldang17-dev/food-ordering-app/assets/89441199/1825c611-b77c-4769-8b50-c70a533c05d2)
 ![image](https://github.com/arnoldang17-dev/food-ordering-app/assets/89441199/c63d5d8e-0213-44cc-88b4-a6fe3be381de)
 ![image](https://github.com/arnoldang17-dev/food-ordering-app/assets/89441199/fb2aa826-a468-45e2-868f-5c26ec588d7c)
