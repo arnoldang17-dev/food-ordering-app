@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+![image](https://github.com/arnoldang17-dev/food-ordering-app/assets/89441199/9644c351-b34f-4bd6-820d-9ec1dad8095d)This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
 
@@ -47,3 +47,31 @@ Clerk for secure user authentication, handling login and registration processes 
 
 ---
 Side-note: Project is still on-work on but some features are working(such as login, register, clicking food categories and adding to cart) as intended.
+---
+Screenshots:
+![image](https://github.com/arnoldang17-dev/food-ordering-app/assets/89441199/1825c611-b77c-4769-8b50-c70a533c05d2)
+![image](https://github.com/arnoldang17-dev/food-ordering-app/assets/89441199/c63d5d8e-0213-44cc-88b4-a6fe3be381de)
+![image](https://github.com/arnoldang17-dev/food-ordering-app/assets/89441199/fb2aa826-a468-45e2-868f-5c26ec588d7c)
+![image](https://github.com/arnoldang17-dev/food-ordering-app/assets/89441199/d8a1e008-7b55-4a76-bbf9-835a5d6615bd)
+![image](https://github.com/arnoldang17-dev/food-ordering-app/assets/89441199/71b6fb97-e1dc-4769-9661-7fe9bb1cec25)
+![image](https://github.com/arnoldang17-dev/food-ordering-app/assets/89441199/b5b2e3cf-bdc8-4300-bf25-791716e039bf)
+![image](https://github.com/arnoldang17-dev/food-ordering-app/assets/89441199/adaac7c8-c894-4571-9c93-48b141b1d76b)
+![image](https://github.com/arnoldang17-dev/food-ordering-app/assets/89441199/cb9a3d58-0e1c-4a47-b2a8-54667aa8e18b)
+![image](https://github.com/arnoldang17-dev/food-ordering-app/assets/89441199/25388cbb-a430-444e-ad68-88c07b90a66d)
+
+## Hygraph Screenshot
+![image](https://github.com/arnoldang17-dev/food-ordering-app/assets/89441199/5cfd7527-9337-4279-b5ea-2ab4ce60e944)
+![image](https://github.com/arnoldang17-dev/food-ordering-app/assets/89441199/e5aaef2c-e0f2-41f4-8ac4-096317822bcf)
+![image](https://github.com/arnoldang17-dev/food-ordering-app/assets/89441199/fc2af81a-b127-4138-97aa-0805a59cad95)
+
+
+
+
+
+
+
+
+
+
+
+
