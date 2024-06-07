@@ -58,6 +58,8 @@ Screenshots:
 ![image](https://github.com/arnoldang17-dev/food-ordering-app/assets/89441199/adaac7c8-c894-4571-9c93-48b141b1d76b)
 ![image](https://github.com/arnoldang17-dev/food-ordering-app/assets/89441199/cb9a3d58-0e1c-4a47-b2a8-54667aa8e18b)
 ![image](https://github.com/arnoldang17-dev/food-ordering-app/assets/89441199/25388cbb-a430-444e-ad68-88c07b90a66d)
+![image](https://github.com/arnoldang17-dev/food-ordering-app/assets/89441199/3179fb5f-07bb-48ab-9bcc-aae66f808bce)
+![image](https://github.com/arnoldang17-dev/food-ordering-app/assets/89441199/65cb6bad-5951-4e20-9299-2b45f240be00)
 
 ## Hygraph Screenshot
 ![image](https://github.com/arnoldang17-dev/food-ordering-app/assets/89441199/5cfd7527-9337-4279-b5ea-2ab4ce60e944)
