@@ -34,3 +34,16 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+---
+# Introduction
+Welcome to EatEase, your go-to platform for convenient and efficient food ordering. Whether you're craving a quick snack or planning a full-course meal, EatEase is designed to cater to all your dining needs with ease and simplicity.
+
+The website is built using the following technologies:
+
+Hygraph for backend content management and API integration.
+ShadCN for CSS components, ensuring a responsive and visually appealing interface.
+Clerk for secure user authentication, handling login and registration processes efficiently.
+
+---
+Side-note: Project is still on-work on but some features are working(such as login, register, clicking food categories and adding to cart) as intended.
